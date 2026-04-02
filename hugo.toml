@@ -3,6 +3,8 @@ languageCode = "es"
 title = "Blue Defender"
 theme = "mana"
 
+relativeURLs = true
+canonifyURLs = true
 enableRobotsTXT = true
 
 [pagination]
