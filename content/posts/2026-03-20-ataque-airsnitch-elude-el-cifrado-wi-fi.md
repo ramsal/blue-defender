@@ -2,7 +2,7 @@
 title: "Análisis del ataque AirSnitch: Elusión del cifrado Wi-Fi"
 date: 2026-03-20
 tags: ["ciberseguridad", "Wi-Fi", "AirSnitch"]
-image: "/images/post.png"
+image: "/images/wifi-attack.png».png"
 draft: false
 ---
 
