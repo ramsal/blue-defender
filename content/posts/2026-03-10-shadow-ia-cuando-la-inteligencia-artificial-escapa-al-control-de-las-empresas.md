@@ -1,8 +1,8 @@
 ---
 title: "Shadow IA: Cuando la Inteligencia Artificial Escapa al Control de las Empresas"
 date: 2026-03-10
-tags: ["ciberseguridad", "supply-chain", "npm"]
-image: "/images/post.png"
+tags: ["ia", "supply-chain", "empresa"]
+image: "/images/ia.jpg"
 draft: false
 ---
 

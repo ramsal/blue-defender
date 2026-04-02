@@ -8,7 +8,9 @@ canonifyURLs = true
 enableRobotsTXT = true
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 5
+  paginate = 5
+
 
 [params]
   basePath = "/blue-defender/"
@@ -20,6 +22,9 @@ enableRobotsTXT = true
   # Hero section title (optional - defaults to site.Title)
   heroTitleLine1 = "Blue Defender"  # First line of hero title
   #heroTitleLine2 = "Your Tagline"    # Second line of hero title (optional)
+
+  mainSections = ["posts"]
+  homePosts = 5
 
 [params.social]
   github = "https://github.com/yourusername"
@@ -42,13 +47,18 @@ enableRobotsTXT = true
   weight = 10
 
 [[menus.main]]
+  name = 'Posts'
+  pageRef = '/posts'
+  weight = 20
+
+[[menus.main]]
   name = 'Tags'
   pageRef = '/tags'
   weight = 30
 
 [[menus.main]]
   name = 'About'
-  url = '/about/'
+  pageRef = '/about'
   weight = 40
 
 [markup]

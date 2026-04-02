@@ -18,5 +18,3 @@ features = ["responsive", "dark mode", "light mode", "blog", "social icons", "co
     extended = true
     min = "0.100.0"
 
-[params]
-  paginate = 10
