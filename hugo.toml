@@ -11,6 +11,7 @@ enableRobotsTXT = true
   pagerSize = 5
 
 [params]
+  basePath = "/blue-defender/"
   author = "salty"
   description = "Notas técnicas de ciberseguridad"
   favicon = "/favicon.ico"
