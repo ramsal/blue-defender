@@ -1,12 +1,12 @@
 ---
-title: "Análisis de Técnicas de Ataque en el Informe Picus Red Report 2026"
+title: "Análisis de Técnicas de Ataque Ransomware"
 date: 2026-03-08
-tags: ["ciberseguridad", "supply-chain", "npm"]
+tags: ["ransomware", "supply-chain", "npm"]
 image: "/images/ransomware.png"
 draft: false
 ---
 
-El informe Picus Red Report 2026 proporciona una visión detallada de las tendencias actuales en ciberseguridad, centrándose en las técnicas de ataque más prevalentes y las vulnerabilidades que afectan a las organizaciones en el entorno digital. Este análisis se enfoca en las principales técnicas de ataque identificadas en el documento, así como en las implicaciones que estas tienen para la seguridad de la cadena de suministro y el ecosistema de software, particularmente en el contexto de los paquetes de Node.js (npm).
+El informe Picus Red Report 2026 proporciona una visión detallada de las tendencias actuales en ciberseguridad, centrándose en las técnicas de ataque más prevalentes y las vulnerabilidades que afectan a las organizaciones en el entorno digital, sobre todo en los ataques tipo Ransomware. Este análisis se enfoca en las principales técnicas de ataque identificadas en el documento, así como en las implicaciones que estas tienen para la seguridad de la cadena de suministro y el ecosistema de software, particularmente en el contexto de los paquetes de Node.js (npm).
 
 ### Contexto del Informe
 
