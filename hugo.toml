@@ -16,7 +16,7 @@ enableRobotsTXT = true
   basePath = "/blue-defender/"
   author = "salty"
   description = "Notas técnicas de ciberseguridad"
-  favicon = "/favicon.ico"
+  favicon = "/favicon/favicon.ico"
   footerText = "Built with Hugo & Mana theme"  # Optional
   
   # Hero section title (optional - defaults to site.Title)
