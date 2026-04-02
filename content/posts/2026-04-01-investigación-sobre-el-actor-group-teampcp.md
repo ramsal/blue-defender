@@ -1,7 +1,7 @@
 ---
 title: "Análisis del Actor de Amenaza TeamPCP: Un Estudio de sus Técnicas y Objetivos"
-date: 2026-04-02
-tags: ["ciberseguridad", "supply-chain", "npm"]
+date: 2026-04-01
+tags: ["teampcp", "ttp", "actor"]
 image: "/images/teamPCP-actor.png"
 draft: false
 ---
