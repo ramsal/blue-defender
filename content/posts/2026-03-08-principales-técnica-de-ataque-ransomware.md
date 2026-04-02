@@ -2,7 +2,7 @@
 title: "Análisis de Técnicas de Ataque en el Informe Picus Red Report 2026"
 date: 2026-03-08
 tags: ["ciberseguridad", "supply-chain", "npm"]
-image: "/images/post.png"
+image: "/images/ransomware.png"
 draft: false
 ---
 
