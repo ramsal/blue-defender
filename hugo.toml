@@ -1,0 +1,58 @@
+baseURL = "http://bluedefender.blog/"
+languageCode = "es"
+title = "Blue Defender"
+theme = "mana"
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "salty"
+  description = "Notas técnicas de ciberseguridad"
+  favicon = "/favicon.ico"
+  footerText = "Built with Hugo & Mana theme"  # Optional
+  
+  # Hero section title (optional - defaults to site.Title)
+  heroTitleLine1 = "Blue Defender"  # First line of hero title
+  #heroTitleLine2 = "Your Tagline"    # Second line of hero title (optional)
+
+[params.social]
+  github = "https://github.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/yourprofile"
+  twitter = "yourusername"
+  email = "your.email@example.com"
+
+[params.buyMeACoffee]
+  enabled = true
+  id = "yourwidgetid"
+  message = ""  # Optional message
+  color = "#BD5FFF"  # Widget color
+  position = "Right"  # "Left" or "Right"
+  x_margin = "18"  # Horizontal margin in pixels
+  y_margin = "18"  # Vertical margin in pixels
+
+[[menus.main]]
+  name = 'Home'
+  pageRef = '/'
+  weight = 10
+
+[[menus.main]]
+  name = 'Tags'
+  pageRef = '/tags'
+  weight = 30
+
+[[menus.main]]
+  name = 'About'
+  url = '/about/'
+  weight = 40
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
