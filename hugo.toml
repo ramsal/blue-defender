@@ -1,4 +1,4 @@
-baseURL = "http://bluedefender.blog/"
+baseURL = "https://ramsal.github.io/blue-defender/"
 languageCode = "es"
 title = "Blue Defender"
 theme = "mana"

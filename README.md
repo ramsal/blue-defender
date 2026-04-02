@@ -4,7 +4,6 @@ Blue Defender es un blog técnico centrado en:
 
 - Ciberseguridad
 - Análisis de incidentes
-- Supply chain attacks
 - Seguridad en IA
 - Arquitectura defensiva
 
